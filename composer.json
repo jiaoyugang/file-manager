@@ -3,12 +3,12 @@
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/laravel-admin-ext/file-manager",
+    "homepage": "https://github.com/jiaoyugang/file-manager.git",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "gang",
+            "email": "1355528968@qq.com"
         }
     ],
     "require": {
