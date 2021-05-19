@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/file-manager",
+    "name": "/file-manager",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
